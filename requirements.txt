@@ -1,0 +1,25 @@
+# Requirements for Echo AI Voice Assistant
+SpeechRecognition==3.10.0
+pyttsx3==2.90
+pyautogui==0.9.54
+requests==2.31.0
+BeautifulSoup4==4.12.2
+schedule
+pywhatkit==5.4
+python-dotenv==1.0.0
+PyAudio==0.2.14
+
+# Advanced NLP and AI capabilities
+transformers==4.38.2
+torch==2.6.0
+numpy==1.26.4
+spacy==3.7.2
+
+# API Integrations
+openweathermap==0.1.0
+google-calendar-api==0.2.0
+newsapi-python==0.2.7
+
+# Context Management
+redis==5.0.1
+sqlalchemy==2.0.27
